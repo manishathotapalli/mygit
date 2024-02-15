@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1707447981,,"wq!"
+|2,0,1708008589,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -23,17 +23,248 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	BLOCK	0
+	h
+|3,1,36,2,1,0,1707707973,"h"
 
 # File marks:
-'0  1  10  ~/index.html
-|4,48,1,10,1707447981,"~/index.html"
+'0  1  0  ~/index.html
+|4,48,1,0,1708008589,"~/index.html"
+'1  1  0  ~/index.html
+|4,49,1,0,1707966989,"~/index.html"
+'2  1  0  ~/index.txt
+|4,50,1,0,1707966760,"~/index.txt"
+'3  1  0  ~/index.html
+|4,51,1,0,1707966013,"~/index.html"
+'4  1  0  ~/index.html
+|4,52,1,0,1707966013,"~/index.html"
+'5  1  0  ~/index.html
+|4,53,1,0,1707881177,"~/index.html"
+'6  1  0  ~/index.html
+|4,54,1,0,1707881177,"~/index.html"
+'7  1  0  ~/index.html
+|4,55,1,0,1707881177,"~/index.html"
+'8  1  0  ~/index.html
+|4,56,1,0,1707881177,"~/index.html"
+'9  1  0  ~/index.html
+|4,57,1,0,1707880908,"~/index.html"
 
 # Jumplist (newest first):
--'  1  10  ~/index.html
-|4,39,1,10,1707447981,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1708008589,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1707966989,"~/index.html"
+-'  1  0  ~/index.txt
+|4,39,1,0,1707966760,"~/index.txt"
+-'  1  0  ~/index.txt
+|4,39,1,0,1707966760,"~/index.txt"
+-'  1  0  ~/index.txt
+|4,39,1,0,1707966760,"~/index.txt"
+-'  1  0  ~/index.txt
+|4,39,1,0,1707966760,"~/index.txt"
+-'  1  0  ~/index.html
+|4,39,1,0,1707966013,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1707966013,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1707881177,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1707881177,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1707880908,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1707880908,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1707880772,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1707880772,"~/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
+-'  1  0  ~/myfirstrepo/mygit/index.html
+|4,39,1,0,1707760138,"~/myfirstrepo/mygit/index.html"
 
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1707447941	0
-	"	1	10
+	*	1708008584	0
+	"	1	0
+	^	2	13
+	.	1	0
+	+	2	12
+	+	1	0
+
+> ~/index.txt
+	*	1707966754	0
+	"	1	0
+
+> ~/myfirstrepo/mygit/index.html
+	*	1707760124	0
+	"	1	0
